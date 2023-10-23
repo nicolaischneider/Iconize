@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="iconize_theme.png" width="1000" alt="TinyConstraints"/>
+</p>
+
 # Iconize
 
 **Iconize** is a command-line tool designed to assist developers in creating the myriad of icon sizes required for Xcode projects, especially when targeting both iOS and macOS platforms. With the varying device sizes and resolutions, ensuring that your app icon looks crisp and clear on all devices can be a challenge. Iconize simplifies this process, allowing developers to focus on building great apps.
