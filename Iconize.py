@@ -1,10 +1,11 @@
 from ArgumentParser import parse_args
 from ImageResizer import resize_for_macos, resize_for_ios, resize_for_specific
 
+
 def main():
     args = parse_args()
 
-    image_path = args.image_path  # This is the path to your image
+    image_path = args.image_path
 
     if args.macos:
         resize_for_macos(image_path)

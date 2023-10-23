@@ -8,8 +8,8 @@ setup(
         "Pillow",
     ],
     entry_points={
-        'console_scripts': [
-            'iconize = Iconize:main',
+        "console_scripts": [
+            "iconize = Iconize:main",
         ],
     },
 )
