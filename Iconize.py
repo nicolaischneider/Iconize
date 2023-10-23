@@ -1,5 +1,5 @@
-from ArgumentParser import parse_args
-from ImageResizer import resize_for_macos, resize_for_ios, resize_for_specific
+from argument_parser import parse_args
+from image_resizer import resize_for_macos, resize_for_ios, resize_for_specific
 
 
 def main():
